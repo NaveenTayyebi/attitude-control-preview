@@ -1,2 +1,2 @@
 # attitude-control-preview
-[![Watch the video]](attitude-control-revised.mp4)
+[![Watch the video]](https://youtu.be/3_WqF86kecE)
